@@ -1,1 +1,2 @@
-# accessibility at @discord
+# design systems at @discord
+designing systems for design
